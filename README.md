@@ -68,6 +68,6 @@ The most important part to make a better GUI is to learn the event binding proce
 
 ## Limitations 🚧 
 
-- This software fails to fetch random questions from the internet and works only on the 40 questions stored in the dictionary.
-- If the user does not enter his/her name at the beginning he/she would have to open the software again.
-- If a audio questions comes, then we cannot hear the timer sound but the timer still goes on and after the audio question, the audio continues to play until it gets over.
+- This software fails to retrieve random questions from the internet and instead only works with the 40 questions stored in the dictionary.
+- If the user does not provide his/her name at the start, the software must be restarted.
+- If an audio question appears, we cannot hear the timer sound, but the timer continues to run, and the audio continues to play until it ends.
