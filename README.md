@@ -68,6 +68,8 @@ The most important part to make a better GUI is to learn the event binding proce
 
 ## Limitations 🚧 
 
+Despite of the best effort of the developer, the following limitations and functional boundaries are visible, which limits the scope of this project:
+
 - This software fails to retrieve random questions from the internet and instead only works with the 40 questions stored in the dictionary.
 - If the user does not provide his/her name at the start, the software must be restarted.
 - If an audio question appears, we cannot hear the timer sound, but the timer continues to run, and the audio continues to play until it ends.
